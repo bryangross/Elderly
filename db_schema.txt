@@ -1,0 +1,22 @@
+USERS
+Name (text)
+Phone (text)
+HomeAddress (text)
+Photo (blob)
+
+USER TASK
+UserId (foreign key)
+TaskId (foreign key)
+
+TASKS
+Type (int, enum)
+Posted (date)
+Photo1 (blob)
+Photo2 (blob)
+Photo3 (blob)
+Address (text)
+Lat (float)
+Lng (float)
+
+CHAT
+??? (depends on what PubNub requires)
