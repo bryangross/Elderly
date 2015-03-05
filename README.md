@@ -2,7 +2,7 @@
 
 Hetang Shah, Vince Tulit, Al Sweigart
 
-Elderly is an app that connects senior citizens with volunteers to help them with tasks. Whether it's moving furniture, tech support, or just having a card-playing partner, Elderly provides individual help to enable seniors to live comfortably. Elderly is a TaskRabbit app powered by the good will of the community. Volunteers can help as frequently as they want according to their own availability, without the entrance barrier of long-term commitment.
+Elderly is an app that connects senior citizens with volunteers to help them with tasks. Whether it's moving furniture, tech support, or just having a card-playing partner, Elderly provides individual help to enable seniors to live comfortably without expensive caretakers. Elderly is a TaskRabbit app powered by the good will of the community. Volunteers can help as frequently as they want according to their own availability, without the entrance barrier of long-term commitment.
 
 Required stories:
 
