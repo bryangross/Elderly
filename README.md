@@ -23,3 +23,8 @@ Optional stories:
  * [ ] Users can provide feedback about their experience for each task.
 
 # Wireframes:
+
+ ![Profile creation](elderly_profile_creation.png)
+ ![Seniors posting a task](elderly_senior_create_task.png)
+ ![Volunteers finding a task](elderly_volunteer_find_task.png)
+ ![Chat screen to accept help offer](elderly_chat.png)
