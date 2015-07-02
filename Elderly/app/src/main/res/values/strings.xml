@@ -4,5 +4,8 @@
     <string name="app_name">Elderly</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="Elderly">Elderly</string>
+    <string name="volunteer_button">New Button</string>
+    <string name="title_activity_login_activity2">LoginActivity2</string>
 
 </resources>

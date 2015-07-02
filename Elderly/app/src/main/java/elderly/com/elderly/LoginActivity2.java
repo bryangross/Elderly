@@ -1,38 +1,23 @@
 package elderly.com.elderly;
 
-import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.Button;
 
 
-public class LoginActivity extends ActionBarActivity {
+public class LoginActivity2 extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
-        final Button volunteer_button = (Button) findViewById(R.id.volunteer_button);
-        final Button senior_button = (Button) findViewById(R.id.senior_button);
-
-
+        setContentView(R.layout.activity_login2);
     }
-
-
-
-    public void gt_activity_login2(View view) {
-        Intent intent = new Intent(this, LoginActivity2.class);
-        startActivity(intent);
-    }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_login, menu);
+        getMenuInflater().inflate(R.menu.menu_login_activity2, menu);
         return true;
     }
 
